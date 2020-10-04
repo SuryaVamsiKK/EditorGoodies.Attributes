@@ -1,0 +1,14 @@
+{
+  "name": "com.editorgoodies.attributes",
+  "version": "1.0.0",
+  "displayName": "Handy Attributes",
+  "description": "This is an example package",
+  "unity": "2018.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "SuryaVamsiKK",
+    "email": "kksvamsi@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
