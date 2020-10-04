@@ -20,7 +20,7 @@ This attribute doesnt take any inputs and is pretty much can be used directly.
 ```csharp
 [ReadOnly] public bool TestBoolean = true;
 ```
-![Hide_Usage_Result](https://github.com/SuryaVamsiKK/EditorGoodies.Attributes/blob/main/Documentation/HideUsageResult.gif?raw=true)
+![ReadOnly_Usage_Result](https://github.com/SuryaVamsiKK/EditorGoodies.Attributes/blob/main/Documentation/ReadOnlyUsageResualt.PNG?raw=true)
 
 
 ### 2. Hide
@@ -37,4 +37,4 @@ public bool ShowVariables;
 [Hide("ShowVariables", false)] public int testInteger = 10;
 [Hide("ShowVariables", false)] public float testFloat = 8.36f;
 ```
-![Hide_Usage_Result](https://github.com/SuryaVamsiKK/EditorGoodies.Attributes/blob/main/Documentation/ReadOnlyUsageResualt.PNG?raw=true)
+![Hide_Usage_Result](https://github.com/SuryaVamsiKK/EditorGoodies.Attributes/blob/main/Documentation/HideUsageResult.gif?raw=true)
