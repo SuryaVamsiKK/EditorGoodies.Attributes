@@ -32,9 +32,9 @@ This attribute takes 2 inputs
 **Example**
 ```csharp
 public bool showVariables;
-[Hide("ShowVariables", true)] public bool testBoolean;
-[Hide("ShowVariables", true)] public string testString;
-[Hide("ShowVariables", false)] public int testInteger = 10;
-[Hide("ShowVariables", false)] public float testFloat = 8.36f;
+[Hide("showVariables", true)] public bool testBoolean;
+[Hide("showVariables", true)] public string testString;
+[Hide("showVariables", false)] public int testInteger = 10;
+[Hide("showVariables", false)] public float testFloat = 8.36f;
 ```
 ![Hide_Usage_Result](https://github.com/SuryaVamsiKK/EditorGoodies.Attributes/blob/main/Documentation/HideUsageResult.gif?raw=true)
