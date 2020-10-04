@@ -2,7 +2,7 @@
   "name": "com.editorgoodies.attributes",
   "version": "1.0.0",
   "displayName": "Handy Attributes",
-  "description": "This is a package consists of some handy attributes that unity otherwise doest have it. /n Feel free to fork and add your custom attributes as well /n/n please note this git Repo can be directly used in the package manager throiugh the link.",
+  "description": "This is a package consists of some handy attributes that unity otherwise doest have it. Feel free to fork and add your custom attributes as well\r\n\r\nplease note this git Repo can be directly used in the package manager through this URL\nhttps://github.com/SuryaVamsiKK/EditorGoodies.Attributes.git",
   "unity": "2018.1",
   "unityRelease": "0b5",
   "author": {
