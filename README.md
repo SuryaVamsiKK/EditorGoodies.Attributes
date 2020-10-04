@@ -31,7 +31,7 @@ This attribute takes 2 inputs
 
 **Example**
 ```csharp
-public bool ShowVariables;
+public bool showVariables;
 [Hide("ShowVariables", true)] public bool testBoolean;
 [Hide("ShowVariables", true)] public string testString;
 [Hide("ShowVariables", false)] public int testInteger = 10;
