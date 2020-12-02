@@ -1,6 +1,6 @@
 # EditorGoodies.Attributes
 
-This is a package consists of some handy attributes that unity otherwise doest have,
+This package consists of some handy attributes that unity otherwise doest have,
 please note this git Repo can be directly used in the package manager through the repo URL
 
 ## Usage
